@@ -1,5 +1,5 @@
 # **Most Signals Are Lies, Pressure Is the Only Honest Metric**
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Systems-Thinking-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Pressure%20Metrics-blueviolet?style=for-the-badge" />
